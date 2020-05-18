@@ -563,3 +563,15 @@ DOMAIN-SUFFIX,x-art.com,PROXY
 DOMAIN-SUFFIX,yimg.com,PROXY
 DOMAIN,api.steampowered.com,PROXY
 DOMAIN,store.steampowered.com,PROXY
+
+
+# > personalized yifan
+DOMAIN-SUFFIX,robinhood.com,PROXY
+DOMAIN-SUFFIX,schwab.com,PROXY
+DOMAIN-SUFFIX,pnc.com,PROXY
+DOMAIN-SUFFIX,chase.com,PROXY
+DOMAIN-SUFFIX,americanexpress.com,PROXY
+DOMAIN-SUFFIX,fidelity.com,PROXY
+DOMAIN-SUFFIX,slack.com,PROXY
+DOMAIN-SUFFIX,slack-edge.com,PROXY
+DOMAIN-SUFFIX,slackb.com,PROXY
